@@ -6,7 +6,7 @@
 - 🧩 Hobby: I enjoy reading manga, especially JoJo's Bizarre Adventure.
 - 🎵 I also enjoy attending live concerts, especially Aimyon.
 - 💻 Experience: software development with experience as a full-stack engineer
-- 📫 How to reach me: X (formerly Twitter) — https://x.com/toufu_engineer
+- 📫 How to reach me: [X (formerly Twitter)](https://x.com/toufu_engineer)
 
 - � Portfolio: https://demu-dev.vercel.app/
 
