@@ -8,8 +8,6 @@
 - 💻 Experience: software development with experience as a full-stack engineer
 - 📫 How to reach me: [X (formerly Twitter)](https://x.com/toufu_engineer)
 
-- � Portfolio: https://demu-dev.vercel.app/
-
 - �🔭 I’m currently working on [Tech Blog](https://zenn.dev/dem3860)
 
 <p align="left">
